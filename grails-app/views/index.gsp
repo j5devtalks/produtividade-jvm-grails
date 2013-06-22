@@ -8,7 +8,7 @@
 		<title>Produtividade ao Extremo na JVM ->Grails</title>
 
 		<meta name="description" content="An easy to use CSS 3D slideshow tool for quickly creating good looking HTML presentations.">
-		<meta name="author" content="Hakim El Hattab">
+		<meta name="author" content="Jonatas Emidio">
 
 		<meta name="apple-mobile-web-app-capable" content="yes" />
 		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
@@ -42,11 +42,10 @@
 				
 				<section>
 					<h2>Quem é Hakim El Hattab?</h2>
-					<p>
-						Gostaria de me desculpar pela possível falta de conteudo. Iniciei esta apresentação ontem a noite...
-					</p>
-					<p>Pelo fato de não ter tido muito tempo e sabendo que esta apresentação seria para pessoas que entendem de tecnologia eu precisava impressionar de alguma forma.</p>
-					<p>Logo utilizei este template de apresentação em HTML5 do Hakim.</p>
+
+					<p>Pelo fato de não ser muito bom com Front End e sabendo que esta apresentação seria para pessoas que entendem de tecnologia. Eu precisava impressionar de alguma forma.
+					Logo utilizei este template de apresentação em HTML5 do Hakim.</p>
+                    <p><img src="${resource(dir: 'img', file: 'hakim.png')}"/></p>
 					<p>
 						<i><small>- <a href="http://hakim.se">Hakim El Hattab</a> / <a href="http://twitter.com/hakimel">@hakimel</a></small></i>
 					</p>
@@ -70,10 +69,12 @@
 						
 						<p>
 						    <i><small>
-							- <a href="http://jonatasemidio.com">Site: jonatasemidio.com</a> 
-							/ <a href="http://santograils.wordpress.com">Blog: Santo Grails</a>
-							/ <a href="http://twitter.com/jonatasemidio">Twitter: @jonatasemidio</a>							      
-							</small></i>
+							- <a href="http://jonatasemidio.com" target="_blank">Site: jonatasemidio.com</a>
+							/ <a href="http://santograils.wordpress.com" target="_blank">Blog: Santo Grails</a>
+							/ <a href="http://twitter.com/jonatasemidio" target="_blank">Twitter: @jonatasemidio</a>
+                            / <a href="https://groups.google.com/forum/#!forum/grailsrio" target="_blank">Grupo: GrailsRio</a>
+
+                            </small></i>
 					        </p>
 					</section>
 					<section>
@@ -95,10 +96,19 @@
 					</section>
 					<section>
 						<h2>Histórico</h2>
-						<p>Recentemente fui convidado para participar de um projeto que estava sendo contruido em Grails.</p>
+						<p>Há um tempo atrás fui convidado para participar de um projeto que estava sendo contruido em Grails.</p>
 						<p>Foi amor a primeira vista!!</p>
-						<p>Atualmente eu tenho 3 meses trabalhando com Grails e já me sinto super a vontade com o seu paradigma.</p>
-					</section>
+						<p>No início do projeto já estava super à vontade com o seu paradigma.</p>
+                    </section>
+                    <section>
+                        <h2>Projetos</h2>
+                        <p>Já trabalhei com Grails em projetos para:</p>
+                        <ol>
+                            <li class="fragment"><code>Detran</code></li>
+                            <li class="fragment"><em>FAETEC (Atual)</em></li>
+                            <li class="fragment"><strong>Emotion.me. Onde ajudei na contrução do <a href="http://pro.emotion.me">pro.emotion.me</a></strong></li>
+                        </ol>
+                    </section>
 					<section><h2>Histórico</h2><p>Não pretendo parar tão cedo com Grails!</p>
 						<p><img src="${resource(dir: 'img', file: 'aceito.jpg')}"/></p>
 					</section>
@@ -222,7 +232,7 @@ public class ListFiles {
 				<section>
 					<h1>THE END</h1>
 					<h3 class="inverted">Por Jonatas Emidio / jonatasemidio.com</h3>
-					<h3 class="inverted">Não deixem de acessar o santograils.wordpress.com</h3>
+					<h3 class="inverted">Não deixem de acessar o santograils.org</h3>
 				</section>
 			</div>
 
