@@ -59,10 +59,11 @@
 				<section>
 					<section>
 						<h2>Um pouco sobre mim:</h2>
-						<h3>Oi... Sou Jonatas Emidio!</h3>
+
 						<p>
 						    <i><small>jonatasemidio@gmail.com</small></i>
 					        </p>
+						<img src="${resource(dir: 'img', file: 'eu.jpg')}"/>
 					</section>
 					<section>
 						<h2>Contatos</h2>
