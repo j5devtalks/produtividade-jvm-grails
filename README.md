@@ -1,7 +1,7 @@
 PRODUTIVIDADE-JVM-GRAILS
 ========================
 
-Produtividade ao extremo na JVM com Grails
+Produtividade ao extremo na JVM com Grails!!
 ------------------------------------------
 
 Uma apresentação de [grails] criada utilizando o [Reveal.js] que mostra algumas diferenças entre Java e [Groovy] (linguagem Java like padrão do grails).

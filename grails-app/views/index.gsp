@@ -96,18 +96,18 @@
 
 					</section>
 					<section>
-						<h2>Histórico</h2>
+						<h2>Histórico:</h2>
 						<p>Há um tempo atrás fui convidado para participar de um projeto que estava sendo contruido em Grails.</p>
 						<p>Foi amor a primeira vista!!</p>
 						<p>No início do projeto já estava super à vontade com o seu paradigma.</p>
                     </section>
                     <section>
-                        <h2>Projetos</h2>
+                        <h2>Projetos:</h2>
                         <p>Já trabalhei com Grails em projetos para:</p>
                         <ol>
                             <li class="fragment"><code>Detran</code></li>
                             <li class="fragment"><em>FAETEC (Atual)</em></li>
-                            <li class="fragment"><strong>Emotion.me. Onde ajudei na contrução do <a href="http://pro.emotion.me">pro.emotion.me</a></strong></li>
+                            <li class="fragment"><strong>Emotion.me. Onde ajudei na construção do <a href="http://pro.emotion.me">pro.emotion.me</a></strong></li>
                         </ol>
                     </section>
 					<section><h2>Histórico</h2><p>Não pretendo parar tão cedo com Grails!</p>
